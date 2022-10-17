@@ -32,7 +32,10 @@ Código da venda, data da venda, código do cliente, código do produto, quantid
 - C
 
 ## Autores
-https://github.com/NataLira1
+<img src="https://avatars.githubusercontent.com/u/100379538?v=4" width=115><br><sub>Natã Cavalcante</sub>
+####
+email: cavalcantenatan28@gmail.com
+
   
 
     
